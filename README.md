@@ -35,19 +35,6 @@ The objective of this project is to explore and analyze the Google Play Store ap
 
 ## Tools used
 
-![Python]
-
-![NumPy]
-
-![Pandas]
-
-![Matplotlib]
-
-![Seaborn]
-
-![GoogleColab]
-
-![Power BI]
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -59,6 +46,8 @@ The objective of this project is to explore and analyze the Google Play Store ap
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=Seaborn)
 
 ![GoogleColab](https://img.shields.io/badge/GoogleColab-orange?style=for-the-badge&logo=GoogleColab)
+
+![Power BI].![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=Power%20BI&logoColor=yellow)
 
 
 
@@ -81,37 +70,40 @@ There is a strong positive correlation (0.64) between the number of reviews and 
 
 Rating and installs show weak correlation (0.05), implying high ratings don’t always mean high downloads.
 
-"FAMILY" is the category with the most apps.
+-"FAMILY" is the category with the most apps.
 
-"GAME" and "COMMUNICATION" are among the top categories by number of installs.
+-"GAME" and "COMMUNICATION" are among the top categories by number of installs.
 
-Free apps dominate the Play Store, comprising 92.12% of the dataset, while paid apps make up only 7.81%.
+-Free apps dominate the Play Store, comprising 92.12% of the dataset, while paid apps make up only 7.81%.
 
-Top-rated free apps often belong to "Productivity", "Education", and "Tools" categories.---------
+-Top-rated free apps often belong to "Productivity", "Education", and "Tools" categories.---------
 
-Top-paid apps with high ratings are often in "Game" and "Lifestyle".
+-Top-paid apps with high ratings are often in "Game" and "Lifestyle".
 
-The majority of content (81.80%) is rated "Everyone", making it broadly accessible.
+-The majority of content (81.80%) is rated "Everyone", making it broadly accessible.
 
-Apps with high installs generally have more sizes, indicating users prefer more smooth and graphics apps.
+-Apps with high installs generally have more sizes, indicating users prefer more smooth and graphics apps.
 
-Apps with more reviews are more likely to be downloaded frequently.
+-Apps with more reviews are more likely to be downloaded frequently.
 
-Sentiment analysis shows 63.6% of user reviews are positive, while 23.9% are negative, and the rest are neutral.
+-Sentiment analysis shows 63.6% of user reviews are positive, while 23.9% are negative, and the rest are neutral.
 
-Free apps receive more feedback, both positive and negative, due to their wider accessibility.
+-Free apps receive more feedback, both positive and negative, due to their wider accessibility.
 
-Paid apps, though fewer in reviews, tend to receive more positive sentiments, reflecting buyer satisfaction.
+-Paid apps, though fewer in reviews, tend to receive more positive sentiments, reflecting buyer satisfaction.
 
-Developing apps within the "Family","Game" and "Lifestyle" categories may result in higher revenue.
+-Developing apps within the "Family","Game" and "Lifestyle" categories may result in higher revenue.
 
-Genres with the highest number of apps include: "Tools", "Entertainment", "Education", "Business", and "Medical".
+-Genres with the highest number of apps include: "Tools", "Entertainment", "Education", "Business", and "Medical".
 
-Apps with frequent updates and optimal sizes are more likely to maintain higher ratings.
+-Apps with frequent updates and optimal sizes are more likely to maintain higher ratings.
 
-Designing apps for everyone with positive sentiment focus (good UX, performance) is a strategic advantage.
+-Designing apps for everyone with positive sentiment focus (good UX, performance) is a strategic advantage.
 
-The dataset offers valuable insights for monetization strategy, category targeting, and user satisfaction. 
+-The dataset offers valuable insights for monetization strategy, category targeting, and user satisfaction. 
+
+Finally created an interactive Power BI dashboard summarizing all the key insights from my Google Play Store data analysis project.
+It visually presents trends in app categories, user ratings, install patterns etc and making it easy to explore and understand the data-driven conclusions.
 
 #
 
