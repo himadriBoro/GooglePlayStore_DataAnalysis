@@ -47,7 +47,7 @@ The objective of this project is to explore and analyze the Google Play Store ap
 
 ![GoogleColab](https://img.shields.io/badge/GoogleColab-orange?style=for-the-badge&logo=GoogleColab)
 
-![Power BI].![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=Power%20BI&logoColor=yellow)
+![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=Power%20BI&logoColor=yellow)
 
 
 
