@@ -104,6 +104,11 @@ Rating and installs show weak correlation (0.05), implying high ratings don’t 
 
 Finally created an interactive Power BI dashboard summarizing all the key insights from my Google Play Store data analysis project.
 It visually presents trends in app categories, user ratings, install patterns etc and making it easy to explore and understand the data-driven conclusions.
+## 📊 Power BI Report
+
+Check out the interactive [Power BI dashboard](https://app.powerbi.com/links/ick7VCI8-z?ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c&pbi_source=linkShare
+) here!
+
 
 #
 
