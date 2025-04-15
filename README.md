@@ -106,8 +106,7 @@ Finally created an interactive Power BI dashboard summarizing all the key insigh
 It visually presents trends in app categories, user ratings, install patterns etc and making it easy to explore and understand the data-driven conclusions.
 ## 📊 Power BI Report
 
-Check out the interactive [Power BI dashboard](https://app.powerbi.com/links/ick7VCI8-z?ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c&pbi_source=linkShare
-) here!
+Check out the interactive [Power BI dashboard](https://app.powerbi.com/groups/me/reports/a2c51950-e8c6-44ea-9bf5-9780627ba57f/5a0561abba42fa726574?experience=power-bi) here!
 
 
 #
